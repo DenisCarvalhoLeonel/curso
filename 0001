@@ -19,6 +19,8 @@
             <p>Temos ainda algumas apostilas para a complementação do aprendizado. Para acessá-las, vá até a <a href="https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf" target="_blank">área do repositório com os arquivos PDF</a> com o material escrito.</p>
         </aside>
         <h2>&#x1F4C1; Módulo 01: Primeiros Passos</h2>
+            
+        <p>Olá mundo</p>
         <ul>
             <li><a href="modulo-01/ex001/index.html">Um HTML simples</a></li>
             <li><a href="modulo-01/ex002/index.html">Parágrafos, quebras e emojis</a></li>
